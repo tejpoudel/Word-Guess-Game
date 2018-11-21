@@ -22,5 +22,8 @@ This is the UCB's Word Guessing Game project. It's intended as a challenge to pu
 ## Features
 You get a Word Guess game screen first open the window. If you follow the game instruction you can play countries gussing game.
 
+## Link
+https://tejpoudel.github.io/Word-Guess-Game.com/
+
 ## Installation
 Clone or download this zip file open it and simply open the index.html file and enjoy!
